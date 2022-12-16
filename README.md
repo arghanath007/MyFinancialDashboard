@@ -1,5 +1,6 @@
 # MyFinancialDashboard
 
+* Interactive Dashboard Link -> https://www.novypro.com/project/my-financial-dashboard
 
 > Created a Dashboard/Report as of September 2022. I will be trying to update it every month. It also helps me financially discipline me.
 
